@@ -12,7 +12,7 @@ Nesta seção, eu explorei os quatro pilares fundamentais da Programação Orien
 
 Compreendi o conceito de abstração, que permite representar entidades complexas de maneira simplificada. Aprendi como definir classes abstratas e métodos abstratos para criar uma base para outras classes.
 
-<img src="/Imagens/3 - Programação Orientada a Objetos/Aplicando conceitos de Abstração na atividade de Herança.png" width="70%">
+<img src="/imagens/programacao-orientada-a-objetos/abstracao.png" width="70%">
 
 ### 3. Encapsulamento
 
@@ -22,7 +22,7 @@ Explorei o encapsulamento, que envolve a proteção dos detalhes internos de uma
 
 Aprofundei-me na herança, que permite que uma classe herde atributos e métodos de outra classe. Entendi como criar hierarquias de classes e usei a herança para compartilhar código com eficiência.
 
-<img src="/Imagens/3 - Programação Orientada a Objetos/Treinando Herança.png" width="70%">
+<img src="/imagens/programacao-orientada-a-objetos/utilizando-heranca.png" width="70%">
 
 ### 5. Polimorfismo
 

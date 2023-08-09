@@ -1,0 +1,5 @@
+# .gitattributes
+* text=auto
+
+# Define as quebras de linha para arquivos com a extensão .md
+*.md text

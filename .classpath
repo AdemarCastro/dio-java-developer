@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="controle-de-fluxo-desafio/src"/>
+	<classpathentry kind="src" path="Escopo e Estrutura de Controle em Java/Estruturas de Repetição em Java/src"/>
+	<classpathentry kind="src" path="Escopo e Estrutura de Controle em Java/Introdução e Estruturas Condicionais com Java/condicionais/src"/>
+	<classpathentry kind="src" path="Escopo e Estrutura de Controle em Java/Tratamento de Exceções/src"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/anotomia-classes/src/main/java"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/conta-banco-java-dio/src"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/escopo/src/main/java"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/java-doc/src/main/java"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/metodos/src/main/java"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/operadores/src/main/java"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/palavras-reservadas/src/main/java"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/sistema-smart-tv/src/main/java"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/terminal-argumentos/src"/>
+	<classpathentry kind="src" path="Fundamentos da Plataforma Java/tipos-variaveis/src/main/java"/>
+	<classpathentry kind="src" path="Programação Orientada a Objetos em Java/fundamentos-da-programacao-orientada-a-objetos/src"/>
+	<classpathentry kind="src" path="sistema-validacao-de-processos/src"/>
+	<classpathentry kind="output" path="Escopo e Estrutura de Controle em Java/Estruturas de Repetição em Java/bin"/>
+</classpath>

@@ -10,7 +10,7 @@ Este projeto foi desenvolvido para aprimorar minhas habilidades em Orientação 
 
 ## Diagrama de Classes UML
 
-<img src="/src/imgs/diagrama-banco-digita.png" width="70%">
+<img src="/imagens/desafio-banco-digital/cortada-diagrama-banco-digita.jpg" width="70%">
 
 ## Funcionalidades atuais:
 

@@ -20,6 +20,10 @@ Este projeto foi desenvolvido para aprimorar minhas habilidades em Orientação 
 - Criar Contas: É possível criar contas correntes e contas poupança para os clientes, com número de conta, saldo inicial e informações do titular.
 - Operações Bancárias: O sistema permite realizar operações como saques, depósitos e transferências entre contas.
 
+## Exemplo de Saída:
+
+<img src="/imagens/desafio-banco-digital/primeira-versao-banco-digital.png">
+
 ## Próximos passos:
 
 - Interface Gráfica: Pretendo desenvolver uma interface gráfica mais elaborada para melhorar a experiência do usuário.
